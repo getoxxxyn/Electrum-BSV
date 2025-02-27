@@ -8,7 +8,6 @@ Electrum-BSV is a fast and secure Bitcoin SV (BSV) wallet designed for high perf
 - **Maintainers:** Neil Booth, Roger Taylor, AustEcon
 - **Project Lead:** Roger Taylor
 - **Language:** Python (requires Python 3.9.13 or later)
-- **Website:** [electrumsv.io](https://electrumsv.io)
 
 ## :rocket: Getting Started on Linux / macOS
 
