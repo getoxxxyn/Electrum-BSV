@@ -140,4 +140,3 @@ For Windows builds, refer to `contrib/build-wine/`.
 
 We welcome contributions to the Electrum-BSV project. If you wish to improve the software, please fork the repository and submit a pull request.
 
-For more details, refer to the [official ElectrumSV website](https://electrumsv.io/).
