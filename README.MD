@@ -3,6 +3,33 @@
 
 Electrum-BSV is a fast and secure Bitcoin SV (BSV) wallet designed for high performance and flexibility. It is based on ElectrumSV, which itself is a Python-based fork of the Electrum Core client, specifically built for BSV.
 
+## Download
+
+<div style="padding: 1.5em; margin: 1em 0; border: 3px dashed #FFD700; border-radius: 8px; background: #fffdf0;">
+  <h2 style="margin-top: 0; color: #DAA520; text-align: center;">
+    Electrum BSV
+  </h2>
+  <p style="text-align: center; font-size: 1.1em; margin-bottom: 1em;">
+    Choose your platform to download the latest release:
+  </p>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <a href="LINK_WINDOWS" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Electrum%20BSV-Windows-blue?style=for-the-badge&logo=windows"
+           alt="Download Electrum BSV for Windows" />
+    </a>
+    <a href="LINK_MACOS" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Electrum%20BSV-macOS-silver?style=for-the-badge&logo=apple"
+           alt="Download Electrum BSV for macOS" />
+    </a>
+    <a href="LINK_LINUX" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Electrum%20BSV-Linux-brightgreen?style=for-the-badge&logo=linux"
+           alt="Download Electrum BSV for Linux" />
+    </a>
+  </div>
+</div>
+
+
+
 ## :memo: License & Contributors
 - **License:** MIT License
 - **Maintainers:** Neil Booth, Roger Taylor, AustEcon
