@@ -5,8 +5,6 @@ Electrum-BSV is a fast and secure Bitcoin SV (BSV) wallet designed for high perf
 
 ## Download
 
-<div style="margin: 20px 0; padding: 20px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.15); background: #fdfdfd;">
-  <h2 style="margin-top: 0; text-align: center; color: #d35400;">Electrum BSV</h2>
 
   <table style="width: 100%; border-collapse: collapse;">
     <thead>
