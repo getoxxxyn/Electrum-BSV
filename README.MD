@@ -5,28 +5,55 @@ Electrum-BSV is a fast and secure Bitcoin SV (BSV) wallet designed for high perf
 
 ## Download
 
-<div style="background: linear-gradient(135deg, #fdfcfb, #eee7e2); border: 4px solid #e2a76f; border-radius: 12px; padding: 1.5em; margin: 1em 0; box-shadow: 0 0 10px rgba(0,0,0,0.08);">
-  <h2 style="text-align: center; margin-top: 0; color: #d35400;">
-    Electrum BSV
-  </h2>
-  <p style="text-align: center; font-size: 1.1em; margin-bottom: 1em;">
-    Get the latest release for your platform:
+<div style="margin: 20px 0; padding: 20px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.15); background: #fdfdfd;">
+  <h2 style="margin-top: 0; text-align: center; color: #d35400;">Electrum BSV</h2>
+  <p style="text-align: center; margin-bottom: 1em; font-size: 1.1em;">
+    Pick your platform to get the latest release:
   </p>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-    <a href="LINK_WINDOWS" style="text-decoration: none; transition: transform 0.2s; display: inline-block;">
-      <img src="https://img.shields.io/badge/Electrum%20BSV-Windows-0078D6?style=for-the-badge&logo=windows"
-           alt="Download Electrum BSV for Windows" />
-    </a>
-    <a href="LINK_MACOS" style="text-decoration: none; transition: transform 0.2s; display: inline-block;">
-      <img src="https://img.shields.io/badge/Electrum%20BSV-macOS-555555?style=for-the-badge&logo=apple"
-           alt="Download Electrum BSV for macOS" />
-    </a>
-    <a href="LINK_LINUX" style="text-decoration: none; transition: transform 0.2s; display: inline-block;">
-      <img src="https://img.shields.io/badge/Electrum%20BSV-Linux-FCC624?style=for-the-badge&logo=linux"
-           alt="Download Electrum BSV for Linux" />
-    </a>
-  </div>
+
+  <table style="width: 100%; border-collapse: collapse;">
+    <thead>
+      <tr style="background: #f9f9f9;">
+        <th style="padding: 12px; text-align: left; font-weight: bold; font-size: 1.1em;">Platform</th>
+        <th style="padding: 12px; text-align: center; font-weight: bold; font-size: 1.1em;">Download</th>
+        <th style="padding: 12px; text-align: right; font-weight: bold; font-size: 1.1em;">File Info</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 12px; vertical-align: middle;">Windows</td>
+        <td style="padding: 12px; text-align: center;">
+          <a href="LINK_WINDOWS" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/Electrum%20BSV-Windows-0078D6?style=for-the-badge&logo=windows"
+                 alt="Download Electrum BSV for Windows" />
+          </a>
+        </td>
+        <td style="padding: 12px; text-align: right; vertical-align: middle;">.exe installer</td>
+      </tr>
+      <tr style="background: #f9f9f9;">
+        <td style="padding: 12px; vertical-align: middle;">macOS</td>
+        <td style="padding: 12px; text-align: center;">
+          <a href="LINK_MACOS" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/Electrum%20BSV-macOS-555555?style=for-the-badge&logo=apple"
+                 alt="Download Electrum BSV for macOS" />
+          </a>
+        </td>
+        <td style="padding: 12px; text-align: right; vertical-align: middle;">.dmg file</td>
+      </tr>
+      <tr>
+        <td style="padding: 12px; vertical-align: middle;">Linux</td>
+        <td style="padding: 12px; text-align: center;">
+          <a href="LINK_LINUX" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/Electrum%20BSV-Linux-FCC624?style=for-the-badge&logo=linux"
+                 alt="Download Electrum BSV for Linux" />
+          </a>
+        </td>
+        <td style="padding: 12px; text-align: right; vertical-align: middle;">.AppImage / .deb</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
+
 
 
 ## :memo: License & Contributors
