@@ -1,5 +1,5 @@
 
-# Electrum-BSV - Lightweight Bitcoin SV Client
+# Electrum-BSV - Bitcoin SV Client
 
 Electrum-BSV is a fast and secure Bitcoin SV (BSV) wallet designed for high performance and flexibility. It is based on ElectrumSV, which itself is a Python-based fork of the Electrum Core client, specifically built for BSV.
 
